@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Hamidou TESSILIMI"
 ---
 
-I'm glad you are here. I plan to talk about ...
+My name is Hamidou TESSILIMI. You can also call me Blacky.
